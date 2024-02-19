@@ -1,0 +1,14 @@
+{
+  "home": {
+    "title": "Free Unlimited File Converter",
+    "text": "Convert.me is a web application that offers unlimited, fast and easy file conversion to various formats. Forget about size restrictions and enjoy instant conversion 100% free of charge."
+  },
+  "dropfile": {
+    "drop": "Click, or drop your files here",
+    "convert-to": "Convert To",
+    "Convert-Now": "Convert Now",
+    "Converting-Error": "Error Converting File",
+    "done": "done",
+    "anotherFile": "Convert Another File(s)"
+  }
+}
