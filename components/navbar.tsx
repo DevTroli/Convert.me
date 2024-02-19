@@ -22,7 +22,7 @@ export default function Navbar({ }): any {
           className="rounded-full w-fit bg-orange-500 gap-2 border-none items-center hidden md:flex"
           size="lg"
         >
-          <span className='text-slate-900'>Open Source Code</span>
+          <span className='text-slate-900'>Open Source</span>
           <span className="text-xl text-slate-900">
             <BsGithub />
           </span>
